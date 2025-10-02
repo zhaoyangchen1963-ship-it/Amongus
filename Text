@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <title>Hello</title>
+  <body>
+    Lemon
+    <footer>
+      <li>
+        <label for="input" class="form-label">label</label>
+      </li>
+      <article>
+        Random
+        <input type="text" class="form-control" name="name" value="value" placeholder="placeholder" />
+        <option value="OPTION_1">OPTION 1</option>
+      </article>
+    </footer>
+    <head>
+      <nav class="navbar navbar-light bg-light">
+        <ul>
+          <h1>Likeseal</h1>
+          <h1>Lemon</h1>
+          <h1>Lime</h1>
+          <h1>Copy this</h1>
+          <h1>|</h1>
+          <h1>|</h1>
+          <h1>V</h1>
+        </ul>
+      </nav>
+    </head>
+    <main role="main" class="container">
+      <header>
+        COPY LEMON
+      </header>
+    </main>
+  </body>
+</html>
